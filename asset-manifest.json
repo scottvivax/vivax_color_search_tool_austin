@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vivax_color_search_tool/static/css/main.7bcfa403.css",
-    "main.js": "/vivax_color_search_tool/static/js/main.7b39c665.js",
-    "static/media/vivax_logo.png": "/vivax_color_search_tool/static/media/vivax_logo.82edb294b15baa5eb4c3.png",
-    "static/media/full_logo.png": "/vivax_color_search_tool/static/media/full_logo.067183598f659542277f.png",
-    "static/media/house_pin_red.png": "/vivax_color_search_tool/static/media/house_pin_red.e8991d017e5dd92d8ec7.png",
-    "static/media/house_pin.png": "/vivax_color_search_tool/static/media/house_pin.5a47b0171c54e47f2bff.png",
-    "index.html": "/vivax_color_search_tool/index.html",
-    "static/media/list.svg": "/vivax_color_search_tool/static/media/list.91468272b5ecd729c30be794c048ecc1.svg",
-    "main.7bcfa403.css.map": "/vivax_color_search_tool/static/css/main.7bcfa403.css.map",
-    "main.7b39c665.js.map": "/vivax_color_search_tool/static/js/main.7b39c665.js.map"
+    "main.css": "/vivax_color_search_tool_austin/static/css/main.7bcfa403.css",
+    "main.js": "/vivax_color_search_tool_austin/static/js/main.5b6152f5.js",
+    "static/media/vivax_logo.png": "/vivax_color_search_tool_austin/static/media/vivax_logo.82edb294b15baa5eb4c3.png",
+    "static/media/full_logo.png": "/vivax_color_search_tool_austin/static/media/full_logo.067183598f659542277f.png",
+    "static/media/house_pin_red.png": "/vivax_color_search_tool_austin/static/media/house_pin_red.e8991d017e5dd92d8ec7.png",
+    "static/media/house_pin.png": "/vivax_color_search_tool_austin/static/media/house_pin.5a47b0171c54e47f2bff.png",
+    "index.html": "/vivax_color_search_tool_austin/index.html",
+    "static/media/list.svg": "/vivax_color_search_tool_austin/static/media/list.91468272b5ecd729c30be794c048ecc1.svg",
+    "main.7bcfa403.css.map": "/vivax_color_search_tool_austin/static/css/main.7bcfa403.css.map",
+    "main.5b6152f5.js.map": "/vivax_color_search_tool_austin/static/js/main.5b6152f5.js.map"
   },
   "entrypoints": [
     "static/css/main.7bcfa403.css",
-    "static/js/main.7b39c665.js"
+    "static/js/main.5b6152f5.js"
   ]
 }
