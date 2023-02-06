@@ -15,7 +15,7 @@ function Map({ displayPins, map, setMap, currLocPin }) {
         center={[30.3285993382593, -97.7385087]}
         zoom={13}
         // make minZoom smaller to allow greater 'zoom-out'
-        minZoom={13}
+        minZoom={10}
         scrollWheelZoom={true}
         ref={setMap}
         className="map_container"
