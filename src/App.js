@@ -2,7 +2,7 @@ import Map from "./components/Map";
 import SideBar from "./components/SideBar";
 import Header from "./components/Header";
 import ContactDrop from "./components/ContactDrop";
-import pins from "./data/austin_2023_clean.json";
+import pins from "./data/watson_color_data_2023.json";
 import filter_pins from "./helpers/filter_pins";
 import { useState } from "react";
 import "./style.css";

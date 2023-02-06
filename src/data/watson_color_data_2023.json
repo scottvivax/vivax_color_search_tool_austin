@@ -85,7 +85,7 @@
     "Zip": 78669,
     "Lat": 30.4757958,
     "Lon": -98.1587023,
-    "Substrate": "Painted Siding",
+    "Substrate": "Unpainted Stucco",
     "Complete": 2022,
     "Color": [
       { "location": "Body", "color_name": "Anonymous", "color_number": 7046 },
@@ -531,7 +531,7 @@
     "Zip": 78727,
     "Lat": 30.4255275,
     "Lon": -97.7111852,
-    "Substrate": "Painted Siding",
+    "Substrate": "Painted Stucco",
     "Complete": 2022,
     "Color": [
       {
@@ -769,7 +769,7 @@
     "Zip": 78748,
     "Lat": 30.1671048,
     "Lon": -97.8348142,
-    "Substrate": "Painted Siding",
+    "Substrate": "Painted Stucco",
     "Complete": 2022,
     "Color": [
       {
@@ -877,7 +877,7 @@
     "Zip": 78758,
     "Lat": 30.3888866,
     "Lon": -97.6987658,
-    "Substrate": "Painted Siding",
+    "Substrate": "Painted Board and Bat",
     "Complete": 2022,
     "Color": [
       { "location": "Body", "color_name": "Rock Candy", "color_number": 6231 },
@@ -955,7 +955,7 @@
     "Zip": 78723,
     "Lat": 30.2938452,
     "Lon": -97.7043334,
-    "Substrate": "Painted Siding",
+    "Substrate": "Wood Painted Siding",
     "Complete": 2022,
     "Color": [
       { "location": "Body", "color_name": "Edamame", "color_number": 7729 },
@@ -1612,7 +1612,7 @@
     "Zip": 78731,
     "Lat": 30.3481064,
     "Lon": -97.7784591,
-    "Substrate": "Painted Siding",
+    "Substrate": "Wood Painted Siding",
     "Complete": 2022,
     "Color": [
       {
